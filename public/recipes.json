@@ -1,0 +1,98 @@
+[
+  {
+    "recipe_image": "https://i.ibb.co/mNCgSb5/1.jpg",
+    "recipe_id": 1,
+    "recipe_name": "Stir-Fried Chicken with Basil",
+    "short_description": "A quick and easy stir-fry recipe with chicken, vegetables, and a flavorful basil sauce.",
+    "ingredients": [
+      "550 g chicken",
+      "120 ml soy sauce",
+      "200 g basil leaves",
+      "400 g mushrooms",
+      "Other vegetables (optional: broccoli, carrots, peppers)"
+    ],
+    "preparing_time": "30",
+    "calories": "320"
+  },
+  {
+    "recipe_image": "https://i.ibb.co/k8xjVSy/2.jpg",
+    "recipe_id": 2,
+    "recipe_name": "Vegetable Curry",
+    "short_description": "Aromatic and flavorful vegetable curry dish perfect with rice.",
+    "ingredients": [
+      "1 tablespoon vegetable oil",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 teaspoon ground ginger",
+      "1 teaspoon curry powder",
+      "400 g mixed vegetables (potato, cauliflower, carrots)",
+      "400 ml coconut milk",
+      "Cilantro leaves (for garnish)"
+    ],
+    "preparing_time": "45",
+    "calories": "250"
+  },
+  {
+    "recipe_image": "https://i.ibb.co/Yyhwcss/3.jpg",
+    "recipe_id": 3,
+    "recipe_name": "Lentil Soup",
+    "short_description": "Hearty and healthy lentil soup, packed with protein and fiber.",
+    "ingredients": [
+      "1 tablespoon olive oil",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "2 cups brown lentils",
+      "4 cups vegetable broth",
+      "1 teaspoon ground cumin",
+      "1 teaspoon ground coriander",
+      "1 can (400 ml) chopped tomatoes",
+      "Lemon juice (to taste)"
+    ],
+    "preparing_time": "60",
+    "calories": "230"
+  },
+  {
+    "recipe_image": "https://i.ibb.co/zFPcCMc/4.jpg",
+    "recipe_id": 4,
+    "recipe_name": "Baked Salmon with Lemon and Herbs",
+    "short_description": "Simple and delicious baked salmon with a lemon and herb crust.",
+    "ingredients": [
+      "2 salmon fillets",
+      "1 lemon, sliced",
+      "Fresh herbs (such as parsley, dill, thyme)",
+      "Olive oil",
+      "Salt and pepper"
+    ],
+    "preparing_time": "20",
+    "calories": "400"
+  },
+  {
+    "recipe_image": "https://i.ibb.co/BGwXN3z/5.jpg",
+    "recipe_id": 5,
+    "recipe_name": "Fruit Salad",
+    "short_description": "Refreshing and colorful fruit salad, perfect for a light snack or dessert.",
+    "ingredients": [
+      "2 cups mixed fruits (such as strawberries, blueberries, oranges, apples)",
+      "Honey or yogurt (optional, for dressing)"
+    ],
+    "preparing_time": "15",
+    "calories": "100"
+  },
+  {
+    "recipe_image": "https://i.ibb.co/fYSMVxv/6.jpg",
+    "recipe_id": 6,
+    "recipe_name": "Pasta with Tomato Sauce",
+    "short_description": "Classic and satisfying pasta dish with a simple tomato sauce.",
+    "ingredients": [
+      "400 g pasta",
+      "1 can (400 ml) chopped tomatoes",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "Dried oregano",
+      "Olive oil",
+      "Salt and pepper"
+    ],
+    "preparing_time": "30",
+    "calories": "350"
+  }
+]
